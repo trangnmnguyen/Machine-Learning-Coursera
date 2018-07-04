@@ -1,6 +1,6 @@
 # Machine Learning Coursera
 
-This is a complete course material from Coursera Machine Learning class. The topics mentioned in class covers:
+This is a complete course material from Coursera Machine Learning class. The topics mentioned in class are:
 
   * Linear Regression with Multiple Variables
   * Logistic Regression
